@@ -13,7 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
+<div align="center">
+  <a href="https://github.com/hmonroe2/github-readme-stats">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=vfields&show_icons=true&theme=outrun" />
+  </a>
+  <a href="https://github.com/hmonroe2/github-readme-stats">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfields&layout=compact&theme=outrun" />
+  </a>
+</div>
+
+
 ### Languages
 ![TypeScript][TypeScript-shield]
 ![JavaScript][JavaScript-shield]
